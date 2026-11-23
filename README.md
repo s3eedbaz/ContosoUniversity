@@ -30,19 +30,19 @@ An ASP.NET Core MVC web application implementing database initialization and bas
 <img width="1366" height="681" alt="contoso1" src="https://github.com/user-attachments/assets/be9a3e6d-0f2e-4501-a556-659f0460906b" />
 
 ### 2. Student Details & Enrollments
-<!-- <img width="1366" height="690" alt="contosodetails" src="https://github.com/user-attachments/assets/acb86017-1011-48c3-9dff-75a7c542d9c2" />
+ <img width="1366" height="690" alt="contosodetails" src="https://github.com/user-attachments/assets/acb86017-1011-48c3-9dff-75a7c542d9c2" />
  -->
 
 ### 3. Create New Student
-<!-- <img width="1366" height="683" alt="contosocreate" src="https://github.com/user-attachments/assets/a98b820e-a589-4608-885f-211fd1211030" />
+ <img width="1366" height="683" alt="contosocreate" src="https://github.com/user-attachments/assets/a98b820e-a589-4608-885f-211fd1211030" />
 -->
 
 ### 4. Edit Student
-<!-- <img width="1358" height="689" alt="contosoEdit" src="https://github.com/user-attachments/assets/6085e976-859d-4df6-ba62-28f5aa7a4d68" />
+ <img width="1358" height="689" alt="contosoEdit" src="https://github.com/user-attachments/assets/6085e976-859d-4df6-ba62-28f5aa7a4d68" />
 -->
 
 ### 5. Delete Student
-<!-- <img width="1366" height="681" alt="contosodelete" src="https://github.com/user-attachments/assets/677aa779-c6ca-4aa3-9357-c5fee467330f" />
+ <img width="1366" height="681" alt="contosodelete" src="https://github.com/user-attachments/assets/677aa779-c6ca-4aa3-9357-c5fee467330f" />
 -->
 ## How to Run
 1. Clone the repository:
