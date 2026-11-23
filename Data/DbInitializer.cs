@@ -18,7 +18,7 @@ namespace ContosoUniversity.Data
 
        var students = new Student[]
 {
-    new Student { FirstMidName = "Carson", LastName = "Alexander", EnrollmentDate = new DateTime(2005, 9, 1) },
+    new Student { FirstMidName = "ٍSaeed", LastName = "Bazmool", EnrollmentDate = new DateTime(2005, 9, 1) },
     new Student { FirstMidName = "Meredith", LastName = "Alonso", EnrollmentDate = new DateTime(2002, 9, 1) },
     new Student { FirstMidName = "Arturo", LastName = "Anand", EnrollmentDate = new DateTime(2003, 9, 1) },
     new Student { FirstMidName = "Gytis", LastName = "Barzdukas", EnrollmentDate = new DateTime(2002, 9, 1) },
