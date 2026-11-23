@@ -44,6 +44,9 @@ An ASP.NET Core MVC web application implementing database initialization and bas
 ### 5. Delete Student
  <img width="1366" height="681" alt="contosodelete" src="https://github.com/user-attachments/assets/677aa779-c6ca-4aa3-9357-c5fee467330f" />
 -->
+
+
+
 ## How to Run
 1. Clone the repository:
    ```bash
